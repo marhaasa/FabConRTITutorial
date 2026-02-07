@@ -4,7 +4,7 @@ This repository contains artifacts created to deliver Microsoft Fabric Real-Time
 
 To get started, proceeed to the MOAW:
 - Add the aka ms link
-- Add the link to workshop.md doc
+- [Add the link to workshop.md doc](https://moaw.dev/workshop/?src=gh%3Amicrosoft%2Ffabconrtitutorial%2Fmain%2Fdocs%2F&step=0)
 
 Please contact the authors at add the link to the speaker contact doc page.
 
